@@ -1,6 +1,6 @@
 namespace Library.Core.Entities;
 
-public class RoomBook : IEntity 
+public class Appointment : IEntity 
 {
     public Id Id { get; set; } = null!;
 
