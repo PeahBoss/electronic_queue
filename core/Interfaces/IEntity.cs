@@ -1,4 +1,4 @@
-namespace Library.Core.Interfaces;
+namespace ectronic_queue.Core.Interfaces;
 
 public interface IEntity
 {

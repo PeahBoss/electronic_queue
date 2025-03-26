@@ -1,4 +1,4 @@
-namespace Library.Core.Entities;
+namespace ectronic_queue.Core.Entities;
 
 public class Appointment : IEntity 
 {
