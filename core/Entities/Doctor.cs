@@ -4,6 +4,7 @@ public class Doctor : IEntity
 {
     public Id Id { get; set; } = null!;
 
+
     public string Name { get; set; } = null!;
     public string Specialization { get; set; } = null!;
     public string PhoneNumber { get; set; } = null!;
